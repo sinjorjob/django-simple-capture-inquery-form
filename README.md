@@ -2,4 +2,4 @@
 
 公式HP:https://django-simple-captcha.readthedocs.io/en/latest/index.html
 
-[demo](https://github.com/sinjorjob/product_sales_site/blob/master/images/ec-shop-kessai_1.gif)
+![demo](https://github.com/sinjorjob/django-simple-capture-inquery-form/blob/master/images/django-simple-captcha.gif)
